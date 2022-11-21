@@ -1,4 +1,4 @@
-# LGTV2
+# webos-lib
 
 [![NPM version](https://badge.fury.io/js/lgtv2.svg)](http://badge.fury.io/js/lgtv2)
 [![npm](https://img.shields.io/npm/dt/lgtv2.svg)]()
