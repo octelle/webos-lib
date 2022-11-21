@@ -1,6 +1,6 @@
 {
-  "name": "lgtv2",
-  "version": "1.6.3",
+  "name": "webos-lib",
+  "version": "1.0.0",
   "description": "Simple module to remote control LG WebOS smart TVs",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hobbyquaker/lgtv2.git"
+    "url": "https://github.com/octelle/webos-lib.git"
   },
   "keywords": [
     "tv",
@@ -19,17 +19,18 @@
     "remote",
     "control"
   ],
-  "author": "Sebastian Raff <hobbyquaker@gmail.com> (https://github.com/hobbyquaker)",
+  "author": "Octelle (https://github.com/octelle)",
   "contributors": [
+    "Sebastian Raff https://github.com/hobbyquaker",
     "forty2 https://github.com/forty2",
     "Marcin https://github.com/merdok",
     "Erik Montnemery https://github.com/emontnemery"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hobbyquaker/lgtv2/issues"
+    "url": "https://github.com/octelle/webos-lib/issues"
   },
-  "homepage": "https://github.com/hobbyquaker/lgtv2",
+  "homepage": "https://github.com/octelle/webos-lib",
   "dependencies": {
     "mkdirp": "^1.0.4",
     "persist-path": "^1.0.2",
