@@ -8,7 +8,7 @@
 
 Simple Node.js module to remote control LG WebOS smart TVs.
 
-> this is a fork of [lgtv2]([https://github.com/msloth/lgtv.js](https://github.com/hobbyquaker/lgtv2), updated to fix some issues.
+> this is a fork of [lgtv2](https://github.com/hobbyquaker/lgtv2), updated to fix some issues.
 
 
 ## Installation
